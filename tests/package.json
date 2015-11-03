@@ -1,0 +1,7 @@
+{
+  "name": "ts-tests",
+  "version": "0.0.1",
+  "dependencies": {
+    "typescript": "^1.5.3"
+  }
+}
